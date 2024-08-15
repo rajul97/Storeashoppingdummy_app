@@ -1,0 +1,9 @@
+React Native Product Viewer & Cart Application
+
+This project is a simple yet powerful React Native application designed to provide a smooth and intuitive user experience for viewing products, adding them to a cart, and calculating the total product price. Built with JavaScript and Redux for efficient state management, this app ensures seamless interaction and performance.
+
+Features:
+Product Viewing: Browse a wide range of products with a clean and responsive UI.
+Cart Management: Easily add products to the cart, manage quantities, and view the total price in real-time.
+State Management: Redux is utilized for managing the state, ensuring a consistent and predictable behavior across the app.
+Responsive Design: The app is designed to work flawlessly across different devices, providing an optimal viewing experience.
